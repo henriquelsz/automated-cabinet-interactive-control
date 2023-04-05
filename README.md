@@ -4,7 +4,12 @@
 
 ## Components Used:
 - Arduino Mega 
-- RFID 
+- RFID module MFRC522 13.56MHz
+- 3x RFID card and tag
+- 2 Resistors between 220 and 470 Ohm
+- LCD Display 20x4
+- 10K potentiometer (to adjust the LCD contrast)
+- Membrane Matrix Keyboard 4x4
 
 ## Diagrams of the components connected in the Arduino:
 ### Dispaly Diagram:
