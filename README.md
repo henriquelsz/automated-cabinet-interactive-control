@@ -7,6 +7,8 @@
 - RFID 
 
 ## Diagrams of the components connected in the Arduino:
+### Dispaly Diagram:
 ![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub/DisplayDiagrama.png "Dispaly Diagram")
 
+### Keyboard Diagram:
 ![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub/TecladoDiagrama.png "Keyboard Diagram")
