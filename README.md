@@ -19,7 +19,7 @@
 ![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub/TecladoDiagrama.png "Keyboard Diagram")
 
 ### RFID Diagram:
-![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub//Display_RFID.png "RFID Diagram")
+![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub/Display_RFID.png "RFID Diagram")
 
 ### Motor Diagram:
 ![Alt text](https://d195kho0tyqjph.cloudfront.net/GitHub/Motor_Diagram.png "Motor Diagram")
